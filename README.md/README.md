@@ -14,5 +14,9 @@ My first Python project.
 - Input/Output
 - If-Else Statements
 
+## Output Screenshot
+
+![Calculator Output](calculator-output.png)
+
 ## Author
 Ashwini Shanbhag
